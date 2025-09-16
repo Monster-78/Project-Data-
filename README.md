@@ -25,5 +25,5 @@ It also includes a **Random Data Generator** for practice.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Monster-78/Project-Data-.git
+   cd Project-Data
